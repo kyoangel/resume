@@ -1,0 +1,140 @@
+{
+    "basics": {
+        "name": "Kyo Lai",
+        "label": "Programmer",
+        "picture": "",
+        "email": "gd92x2@hotmail.com",
+        "phone": "0905231216",
+        "website": "",
+        "summary": "A summary of Kyo...",
+        "location": {
+            "address": "",
+            "postalCode": "221",
+            "city": "New Taipei City",
+            "countryCode": "TW",
+            "region": "Xizhi"
+        },
+        "profiles": [
+            {
+                "network": "",
+                "username": "Kyo",
+                "url": ""
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Titansoft",
+            "position": "Senior Product Developer",
+            "website": "https://titansoft.com/tw",
+            "startDate": "2017-07-01",
+            "endDate": "Present",
+            "summary": "Description...",
+            "highlights": [
+                "Android App to wrap website",
+                "Fifth payment system integration",
+                "Google Optimize integration",
+                "Promotion Management System"
+            ]
+        },
+        {
+            "company": "HTC Corporation",
+            "position": "Software Engineer",
+            "website": "http://careers.htc.com/",
+            "startDate": "2011-09-01",
+            "endDate": "2017-07-01",
+            "summary": "Description...",
+            "highlights": [
+                "Viveport  SDK  plugin",
+                "Part  of  Viveport  Store  desktop  client  development"
+            ]
+        },
+        {
+            "company": "THE SYSCOM GROUP",
+            "position": "Software Engineer",
+            "website": "http://company.com",
+            "startDate": "2008-10-01",
+            "endDate": "2011-08-01",
+            "summary": "Description...",
+            "highlights": [
+                "Hwatai  bank  data  warehousing",
+                "SinoPac  bank  ATM  transcription  system"
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": [
+                "Awarded 'Volunteer of the Month'"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "area": "Software Development",
+            "studyType": "Bachelor",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "gpa": "4.0",
+            "courses": [
+                "DB1101 - Basic SQL"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": [
+                "Ferrets",
+                "Unicorns"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}
